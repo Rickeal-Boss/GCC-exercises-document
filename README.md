@@ -1,2 +1,2 @@
 # GCC-exercises-document
-GCC练习题
+GCC马原练习题
